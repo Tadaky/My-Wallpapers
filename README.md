@@ -1,4 +1,4 @@
-# My-Favorite-Wallpapers
+# My-Favorites-Wallpapers
 
 Github > GDrive
 
