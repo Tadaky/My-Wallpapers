@@ -2,7 +2,7 @@
 
 Github > GDrive
 
-Credits for:
+Credits to:
 
 owl4ce/dotfiles
 kitsunebishi/Wallpapers
