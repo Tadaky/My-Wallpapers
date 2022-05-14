@@ -2,7 +2,7 @@
 * Github > GDrive
 
 # Credits to:
-* owl4ce/dotfiles
-* kitsunebishi/Wallpapers
-* 6m2WLNVdKgg
+* owl4ce/dotfiles -------------- Github
+* kitsunebishi/Wallpapers ------ Github
+* 6m2WLNVdKgg ------------------ Youtube
 * and for all artists.
